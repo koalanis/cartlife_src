@@ -1,3 +1,14 @@
 acsprset.spr
 backup_acsprset.spr
 
+
+# OS / editor junk
+Thumbs.db
+*.dmp
+*.bak
+*.agf.user
+
+# AGS build output
+cartlife/_Debug/
+cartlife/Compiled/Windows/
+cartlife/Compiled/Data/
